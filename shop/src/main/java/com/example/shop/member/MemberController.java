@@ -4,6 +4,7 @@ package com.example.shop.member;
 import java.net.URI;
 import java.util.List;
 
+import com.example.shop.member.service.MemberService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
