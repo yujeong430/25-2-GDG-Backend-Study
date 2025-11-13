@@ -1,6 +1,6 @@
 package com.example.shop.member.service;
 
-import com.example.shop.member.Member;
+import com.example.shop.member.entity.Member;
 import com.example.shop.member.dto.MemberCreateRequest;
 import com.example.shop.member.dto.MemberUpdateRequest;
 

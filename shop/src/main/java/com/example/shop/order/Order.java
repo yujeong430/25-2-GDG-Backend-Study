@@ -2,7 +2,7 @@ package com.example.shop.order;
 
 import java.time.LocalDateTime;
 
-import com.example.shop.member.Member;
+import com.example.shop.member.entity.Member;
 
 import jakarta.persistence.*;
 import lombok.NoArgsConstructor;

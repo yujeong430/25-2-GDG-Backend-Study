@@ -1,6 +1,6 @@
 package com.example.shop.member.repository;
 
-import com.example.shop.member.Member;
+import com.example.shop.member.entity.Member;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
